@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="compressor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/compressor_jar</output-path>
+    <root id="archive" name="compressor.jar">
+      <element id="module-output" name="compressor" />
+    </root>
+  </artifact>
+</component>
