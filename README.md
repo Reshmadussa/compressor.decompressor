@@ -12,3 +12,4 @@ our compressed files can be restored to their original form.
 - Saves storage space
 - Speed up file transfers
 - Reduce storage hardware and network bandwidth costs.
+  
